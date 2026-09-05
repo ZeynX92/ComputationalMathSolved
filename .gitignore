@@ -1,0 +1,12 @@
+venv/
+.idea/
+dist/
+build/
+*.egg-info/
+__pycache__/
+*.pyc
+models/
+userdata/audio/
+userdata/buffer/
+userdata/answers/
+
