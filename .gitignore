@@ -6,4 +6,6 @@ build/
 __pycache__/
 *.pyc
 .virtual_documents/
-
+*.doc
+*.pdf
+*.docx
